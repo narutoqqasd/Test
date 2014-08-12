@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI</string>
+    <string name="label_password">Password:</string>
+    <string name="label_show_password">show password</string> 
+    <string name="label_device_count">Amount:</string>  
+    <string name="label_device_count_single">single</string>  
+     
+    <string name="btn_connect">connect</string>
+    
+    <string name="tip_timeout">timeout,please have a check</string>
+    <string name="tip_wifi_not_connected">wifi not connected,plesase have a check</string>
+    <string name="tip_configuring_device">configuring device</string>
+    <string name="tip_device_config_success">device MAC:%s configure success</string>
+     <string name="whatsnew_page01">"智能插座APP\n超过2亿人使用的手机应用"</string>
+    <string name="whatsnew_page02">"远程控制\n如此简单轻松"</string>
+    <string name="whatsnew_page03">"智能插座APP\n让你的生活更加美妙"</string>
+    <string name="whatsnew_page04">"智能插座\n开启美好时代"</string>
+	<string name="whatsnew_page05">"智能插座\n和朋友们分享彼此的生活"</string>
+	<string name="whatsnew_page06">"智能家居，是一种全新的生活方式"</string>
+	<string name="whatsnew_start_btn">"开启"</string>
+</resources>

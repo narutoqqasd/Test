@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">AI</string>
+    <string name="label_password">密码:</string>
+    <string name="label_show_password">显示</string> 
+    <string name="label_device_count">数目:</string>  
+    <string name="label_device_count_single">单个</string>  
+    
+    <string name="btn_connect">确认</string>
+    
+    <string name="tip_timeout">配置设备超时,请检查设备指示灯和设置密码是否正确</string>
+    <string name="tip_wifi_not_connected">wifi网络未连接，请先连接wifi!</string>
+    <string name="tip_configuring_device">正在配置设备</string>
+    <string name="tip_device_config_success">设备MAC:%s配置成功</string>
+</resources>

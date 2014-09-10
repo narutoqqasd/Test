@@ -72,6 +72,22 @@
             android:name="com.view.demo.WhatsNew"
             android:label="@string/app_name">
         </activity>
+           <activity 
+            android:name="com.view.demo.Client"
+            android:label="@string/app_name">
+        </activity>
+           <activity 
+            android:name="com.view.demo.MyLog"
+            android:label="@string/app_name">
+        </activity>
+           <activity 
+            android:name="com.view.demo.Setting"
+            android:label="@string/app_name">
+        </activity>
+           <activity 
+            android:name="com.view.demo.SocThread"
+            android:label="@string/app_name">
+        </activity>
     </application>
 	
     

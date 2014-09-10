@@ -29,64 +29,48 @@ public final class R {
         public static final int white_bule_gradient=0x7f02000c;
     }
     public static final class id {
-        public static final int button1=0x7f080002;
-        public static final int button2=0x7f080003;
-        public static final int button3=0x7f080004;
-        public static final int connect=0x7f08000e;
-        public static final int deviceCountGroup=0x7f08000c;
-        public static final int deviceCountSingle=0x7f08000d;
-        public static final int editText1=0x7f080001;
-        public static final int editText2=0x7f080007;
-        public static final int guidePagers=0x7f080011;
-        public static final int hd_title=0x7f080008;
-        public static final int linearLayoout01=0x7f080010;
-        public static final int linearLayout02=0x7f080012;
-        public static final int menu_settings=0x7f080014;
-        public static final int pwd=0x7f08000a;
-        public static final int showPwd=0x7f08000b;
-        public static final int ssid=0x7f080009;
-        public static final int start_btn=0x7f08000f;
-        public static final int textView1=0x7f080005;
-        public static final int textView2=0x7f080006;
-        public static final int tv1=0x7f080000;
-        public static final int viewPoints=0x7f080013;
+        public static final int connect=0x7f070006;
+        public static final int deviceCountGroup=0x7f070004;
+        public static final int deviceCountSingle=0x7f070005;
+        public static final int guidePagers=0x7f070009;
+        public static final int hd_title=0x7f070000;
+        public static final int linearLayoout01=0x7f070008;
+        public static final int linearLayout02=0x7f07000a;
+        public static final int pwd=0x7f070002;
+        public static final int showPwd=0x7f070003;
+        public static final int ssid=0x7f070001;
+        public static final int start_btn=0x7f070007;
+        public static final int viewPoints=0x7f07000b;
     }
     public static final class layout {
-        public static final int client=0x7f030000;
-        public static final int setting=0x7f030001;
-        public static final int smart_config=0x7f030002;
-        public static final int start=0x7f030003;
-        public static final int viewpager01=0x7f030004;
-        public static final int viewpager02=0x7f030005;
-        public static final int viewpager03=0x7f030006;
-        public static final int viewpager04=0x7f030007;
-        public static final int viewpager05=0x7f030008;
-        public static final int viewpager06=0x7f030009;
-        public static final int viewpagers=0x7f03000a;
-    }
-    public static final class menu {
-        public static final int client=0x7f070000;
-        public static final int main=0x7f070001;
+        public static final int smart_config=0x7f030000;
+        public static final int start=0x7f030001;
+        public static final int viewpager01=0x7f030002;
+        public static final int viewpager02=0x7f030003;
+        public static final int viewpager03=0x7f030004;
+        public static final int viewpager04=0x7f030005;
+        public static final int viewpager05=0x7f030006;
+        public static final int viewpager06=0x7f030007;
+        public static final int viewpagers=0x7f030008;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
-        public static final int btn_connect=0x7f040006;
+        public static final int btn_connect=0x7f040005;
         public static final int label_device_count=0x7f040003;
         public static final int label_device_count_single=0x7f040004;
         public static final int label_password=0x7f040001;
         public static final int label_show_password=0x7f040002;
-        public static final int menu_settings=0x7f040005;
-        public static final int tip_configuring_device=0x7f040009;
-        public static final int tip_device_config_success=0x7f04000a;
-        public static final int tip_timeout=0x7f040007;
-        public static final int tip_wifi_not_connected=0x7f040008;
-        public static final int whatsnew_page01=0x7f04000b;
-        public static final int whatsnew_page02=0x7f04000c;
-        public static final int whatsnew_page03=0x7f04000d;
-        public static final int whatsnew_page04=0x7f04000e;
-        public static final int whatsnew_page05=0x7f04000f;
-        public static final int whatsnew_page06=0x7f040010;
-        public static final int whatsnew_start_btn=0x7f040011;
+        public static final int tip_configuring_device=0x7f040008;
+        public static final int tip_device_config_success=0x7f040009;
+        public static final int tip_timeout=0x7f040006;
+        public static final int tip_wifi_not_connected=0x7f040007;
+        public static final int whatsnew_page01=0x7f04000a;
+        public static final int whatsnew_page02=0x7f04000b;
+        public static final int whatsnew_page03=0x7f04000c;
+        public static final int whatsnew_page04=0x7f04000d;
+        public static final int whatsnew_page05=0x7f04000e;
+        public static final int whatsnew_page06=0x7f04000f;
+        public static final int whatsnew_start_btn=0x7f040010;
     }
     public static final class style {
         public static final int edit_text=0x7f050001;

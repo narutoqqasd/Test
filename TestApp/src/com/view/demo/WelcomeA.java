@@ -25,7 +25,7 @@ public class WelcomeA extends Activity {
 					intent.setClass(getApplicationContext(), WhatsNew.class);
 				} else {
 					intent.setClass(getApplicationContext(),
-							Client.class);
+							SmartConfigActivityDemo.class);
 				}
 				startActivity(intent);
 				finish();
